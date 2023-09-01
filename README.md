@@ -1,4 +1,4 @@
-# Descendant-selector
+# descendant-selector
 ## Another variant of Css selector is descendant selector(Css selectorun başka bir çeşidi descendant selector)
 - Soydan gelen seçicidir. Bir boşlukla kullanılır. Diyelim ki; sayfamda çok fazla __a href__ etiketi mevcut. Ben içlerinden bazılarına stil vereceğim. O zaman __descendant selector__ yardımıyla seçerek kullanabilirim.
 ```html
